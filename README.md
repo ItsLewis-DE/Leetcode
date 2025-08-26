@@ -15,4 +15,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/phongthanh-1711/Leetcode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/phongthanh-1711/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/phongthanh-1711/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/phongthanh-1711/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/phongthanh-1711/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
