@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/phongthanh-1711/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1894-merge-strings-alternately](https://github.com/phongthanh-1711/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/phongthanh-1711/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/phongthanh-1711/Leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
