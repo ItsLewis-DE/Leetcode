@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/phongthanh-1711/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/phongthanh-1711/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
