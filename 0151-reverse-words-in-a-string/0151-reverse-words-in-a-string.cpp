@@ -1,32 +1,22 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        int fast =0 , slow =0;
+        int i=0;
+        int right =0;
         int n = s.size();
-        while (fast <n && s[fast] ==' ') {
-            fast +=1;
-        }
-        while (fast < n) {
-            if (s[fast] == ' ') {
-                while ((fast < n) && (s[fast] ==' ')) {
-                    fast +=1;
-                }
-                if ((fast <n) and (s[fast] !=' '))
-                    s[slow++] =' ';
+        int left =0;
+        while (i<n) {
+            while (i<n && s[i]==' ') i++;
+            if (i==n) break;
+            while ( i<n && s[i]!=' ') {
+                s[right++] = s[i++];
             }
-            else {
-                s[slow++] = s[fast++];
-            }
+            reverse(s.begin() +left,s.begin() +right);
+            s[right++] = ' ';
+            left = right;
         }
-        s.resize(slow);
+        s.resize(right-1);
         reverse(s.begin(),s.end());
-        int start =0;
-        for(int end =0;end <= s.size();end++) {
-            if (end == s.size() || s[end]==' ') {
-                reverse(s.begin()+ start,s.begin() +end);
-                start = end +1;
-            }
-        }
         return s;
-}   
+    }
 };
