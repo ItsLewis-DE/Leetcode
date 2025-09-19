@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/phongthanh-1711/Leetcode/tree/master/0016-3sum-closest) |
 | [0238-product-of-array-except-self](https://github.com/phongthanh-1711/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/phongthanh-1711/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/phongthanh-1711/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/phongthanh-1711/Leetcode/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/phongthanh-1711/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/phongthanh-1711/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/phongthanh-1711/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/phongthanh-1711/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/phongthanh-1711/Leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
