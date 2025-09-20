@@ -10,9 +10,7 @@ class Solution:
                 right -=1
             else:
                 dem+=1
-                del nums[left]
-                right -=1
-                del nums[right]
-                right -=1
+                left +=1
+                right-=1
         return dem
                 
