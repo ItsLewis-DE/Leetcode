@@ -5,10 +5,7 @@ class Solution:
             if chars[read-1] != chars[read]:
                 chars[write] = chars[read-1]
                 write+=1
-                if count !=1 and count <10:
-                    chars[write] = str(count)
-                    write+=1
-                elif count !=1 and count >=10:
+                if count >1:
                     for ch in str(count):
                         chars[write] = ch
                         write+=1
