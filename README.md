@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/phongthanh-1711/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/phongthanh-1711/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/phongthanh-1711/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/phongthanh-1711/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/phongthanh-1711/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/phongthanh-1711/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Array
 |  |
 | ------- |
