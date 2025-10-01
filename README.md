@@ -117,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/phongthanh-1711/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/phongthanh-1711/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/phongthanh-1711/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/phongthanh-1711/Leetcode/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
