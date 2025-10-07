@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/phongthanh-1711/Leetcode/tree/master/0180-consecutive-numbers) |
+| [0196-delete-duplicate-emails](https://github.com/phongthanh-1711/Leetcode/tree/master/0196-delete-duplicate-emails) |
 ## String Matching
 |  |
 | ------- |
